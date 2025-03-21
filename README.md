@@ -1,4 +1,4 @@
-# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Your Name]
+# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm Juliana 
 
 ```                                                                                     
   /$$$$$$                      /$$ /$$
@@ -15,27 +15,23 @@
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
+I have a great passion for international bussines and a strong curiosity for becoming a loyer.  
 I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
 <br>
-
 ‎
-## 🌱 I'm currently learning
-- Markdown and effective documentation
-- Version control with Git and GitHub
-- [Other technologies/topics]
+## Possible careers that I want to study 
+- Financial Engineering
+- Law
+- International bussines 
 
 <br>
 
 ## 🎓 My Education
 
-- **[Institution Name]** – [Year]  
-- **[Certification Name]** – [Platform or Institution]  
-- **[Certification Name]** – [Platform or Institution]
+- **Reggio Emilia** – 2025  
+
+
 
 <br>
 
